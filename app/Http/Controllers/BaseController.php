@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+// php artisan make:controller BaseController
 use Illuminate\Http\Request;
 
 class BaseController extends Controller
